@@ -1,0 +1,11 @@
+#check {
+  text-align: center;
+  color: #fee0ff;
+  font-weight: bold;
+  font-family: "Brush Script MT", fantasy;
+  font-size: 60px;
+}
+
+#SM:hover {
+  transform: scale(1.25,1.25);
+}

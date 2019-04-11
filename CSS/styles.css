@@ -1,0 +1,41 @@
+html {
+    background-image: linear-gradient(#C773FE, #811fc4);
+}
+
+
+#FB {
+  color: #fee0ff;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: "Brush Script MT", fantasy;
+  transition: all .5s ease;
+  padding-top: 25px;
+}
+
+#FB:hover{
+	-webkit-filter: grayscale(0);
+  transform: scale(1.1,1.1);
+}
+
+#footer {
+  color: #fee0ff;
+  height: 50px;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 10px;
+  display: block;
+  background: black;
+}
+
+#header {
+  color: #fee0ff;
+  height: 75px;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 10px;
+  display: block;
+  background: black;
+}

@@ -1,0 +1,36 @@
+table, tr, td {
+  margin: auto;
+  text-align: center;
+  table-layout: auto;
+  height: 100px;
+  width: 950px;
+  color: #fee0ff;
+  background-image: linear-gradient(#C773FE, #7F29D2);
+  overflow: hidden;
+}
+
+#tops:hover, #bottoms:hover, #dresses:hover, #KSP:hover, #JS:hover, #LP:hover, #PlusS:hover, #SA:hover {  background-image:linear-gradient(#7F29D2, #C773FE);
+  color: #fee0ff;
+  font-size: 40px;
+}
+
+#top-row, #bottom-row {
+  color: #fee0ff;
+}
+
+#sel {
+  font-family: "Brush Script MT", fantasy;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+#Pics {
+  border: 10px solid #FF78CB
+}
+
+#Pics:hover {
+  border: 5px solid #9400D3;
+  transform: scale(1.75);
+}
